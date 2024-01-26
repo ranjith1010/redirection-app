@@ -17,6 +17,7 @@ From above example,
 
 > Similarly, localhost:4200/home/ranjith redirects to https://ranjith1010.github.io
 
+> JSON 'urls' is mapped to URL Path. and 'value' field should contain the redirection url for the same. 
 
 Feel free to update the urls and file and its ready to use.
 
